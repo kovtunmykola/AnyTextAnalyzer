@@ -1,4 +1,3 @@
-````markdown
 # AnyTextAnalyzer
 
 AnyTextAnalyzer is a simple npm package for analyzing text. It provides functionality to count words, characters, sentences, and paragraphs in a given text string.
@@ -35,4 +34,3 @@ The `analyze()` method returns an object containing the following properties:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# AnyTextAnalyzer
